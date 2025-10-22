@@ -1,16 +1,48 @@
-## Hi there 👋
+<!-- Dynamic Typing Header -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Akram+👋;Engineering+the+link+between+theory+and+intelligent+computation" alt="Typing SVG" />
+  </a>
+</h1>
 
-<!--
-**m871-akram/m871-akram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🧩 Building **[mathematical & algorithmic models](https://medium.com/@m871-akram/when-mathematics-predicts-panic-cff7a7f3d6ea)** for intelligent systems  
+- ⚙️ Designing **low-level software and operating systems** from scratch  
+- 🔬 Studying **[quantum-inspired optimization](https://medium.com/@m871-akram/the-quantum-cheat-code-how-physics-lets-you-win-beyond-probability-f5e148ac2049)** for decision-making   
+
+---
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Libraries & Frameworks:** 
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex)
+
+
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akram-lrhorfi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.lrhorfi@grenoble-inp.org)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@m871-akram)
+
