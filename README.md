@@ -24,7 +24,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash%7CZsh-121011?style=flat-square&logo=gnubash&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![VHDL](https://img.shields.io/badge/VHDL-005F9E?style=flat-square&logoColor=white)
