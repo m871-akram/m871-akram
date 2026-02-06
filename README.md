@@ -11,6 +11,8 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="25" height="25" />   Maybe teaching math models to have a higher IQ than me using quantum-inspired cheat codes 
 
+<p align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="25" height="25" /> <font color="#00d2ff"><i>Maybe teaching <b>math models</b> to have a higher IQ than me using <b>quantum-inspired cheat codes</b></i></font> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20nature/Lady%20Beetle.png" width="25" height="25" /> </p>
+
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
