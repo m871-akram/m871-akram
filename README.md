@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 </p>
 
-<i>Maybe teaching <b>math models</b> to have a higher IQ than me using <b>quantum-inspired cheat codes</b></i></font> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="25" height="25" /> 
+<p align="left"> <i>Maybe teaching <b>math models</b> to have a higher IQ than me using <b>quantum-inspired cheat codes</b></i></font>   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="25" height="25" /> </p>
 
 
 
