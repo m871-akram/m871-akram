@@ -9,9 +9,7 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 </p>
 
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="25" height="25" /> Building **[mathematical & algorithmic models](https://medium.com/@m871-akram/when-mathematics-predicts-panic-cff7a7f3d6ea)** for intelligent systems  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25" /> Studying **[quantum-inspired optimization](https://medium.com/@m871-akram/the-quantum-cheat-code-how-physics-lets-you-win-beyond-probability-f5e148ac2049)** for decision-making   
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="25" height="25" /> Engineering math-heavy models for smart systems and using quantum shortcuts to outsmart standard decision-making <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25" /> 
 
 ---
 
