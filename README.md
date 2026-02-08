@@ -13,7 +13,6 @@
     <i>𝕄𝕒𝕪𝕓𝕖 𝕥𝕖𝕒𝕔𝕙𝕚𝕟𝕘 <b>math models</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="25" height="25" /> 𝕥𝕠 𝕙𝕒𝕧𝕖 𝕒 𝕙𝕚𝕘𝕙𝕖𝕣 𝕀ℚ 𝕥𝕙𝕒𝕟 𝕞𝕖</i>
   </font> 
 </p>
-
 <br>
 
 ---
