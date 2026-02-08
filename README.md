@@ -16,6 +16,7 @@
 
 <br>
 ---
+
 <div align="center">
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -29,10 +30,12 @@
   <img src="https://img.shields.io/badge/Bash%7CZsh-121011?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/VHDL-005F9E?style=flat-square&logoColor=white" />
+  
 
   <br>
   <b>Libraries & Frameworks</b>
   <br>
+  
 
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn" />
