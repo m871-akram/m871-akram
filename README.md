@@ -11,11 +11,10 @@
 <p align="center">
   <font color="#9d50bb">
     <i>𝕄𝕒𝕪𝕓𝕖 𝕥𝕖𝕒𝕔𝕙𝕚𝕟𝕘 <b>math models</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="25" height="25" /> 𝕥𝕠 𝕙𝕒𝕧𝕖 𝕒 𝕙𝕚𝕘𝕙𝕖𝕣 𝕀ℚ 𝕥𝕙𝕒𝕟 𝕞𝕖</i>
-  </font> 
+  </font>
 </p>
-<br>
 
----
+<br>
 
 <div align="center">
 
@@ -30,14 +29,9 @@
   <img src="https://img.shields.io/badge/Bash%7CZsh-121011?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/VHDL-005F9E?style=flat-square&logoColor=white" />
-  
 
-  <br>
-  <b>Libraries & Frameworks</b>
-  <br>
-  
-
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas" />
+  <br><br> <b>Libraries & Frameworks</b>
+  <br>     <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" />
