@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/VHDL-005F9E?style=flat-square&logoColor=white" />
 
-  <br><br> <b>Libraries & Frameworks</b>
   <br>     <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
