@@ -10,9 +10,8 @@
 
 <p align="center">
   <font color="#9d50bb">
-    <i>𝕄𝕒𝕪𝕓𝕖 𝕥𝕖𝕒𝕔𝕙𝕚𝕟𝕘 <b>math models</b> 𝕥𝕠 𝕙𝕒𝕧𝕖 𝕒 𝕙𝕚𝕘𝕙𝕖𝕣 𝕀ℚ 𝕥𝕙𝕒𝕟 𝕞𝕖</i>
+    <i>𝕄𝕒𝕪𝕓𝕖 𝕥𝕖𝕒𝕔𝕙𝕚𝕟𝕘 <b>math models</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="25" height="25" /> 𝕥𝕠 𝕙𝕒𝕧𝕖 𝕒 𝕙𝕚𝕘𝕙𝕖𝕣 𝕀ℚ 𝕥𝕙𝕒𝕟 𝕞𝕖</i>
   </font> 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="25" height="25" />
 </p>
 
 <br>
@@ -33,10 +32,8 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![VHDL](https://img.shields.io/badge/VHDL-005F9E?style=flat-square&logoColor=white)
 
-  <br><br>
-  
-  <b>Libraries & Frameworks:</b>
-  
+<br>
+  <b>Libraries & Frameworks</b>
   <br>
 
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
