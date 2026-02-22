@@ -1,6 +1,6 @@
 <div>
 
-  <img align="right" width="350" src="https://github.com/user-attachments/assets/72a0e34a-da33-421a-a91d-b8305bfc3ca2" alt="Kawaii Pixel Cat" />
+  <img align="right" width="300" src="https://github.com/user-attachments/assets/72a0e34a-da33-421a-a91d-b8305bfc3ca2" alt="Kawaii Pixel Cat" />
 
   <br>
 
