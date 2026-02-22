@@ -1,6 +1,6 @@
 <div>
 
-  <img align="right" width="300" src="https://github.com/user-attachments/assets/72a0e34a-da33-421a-a91d-b8305bfc3ca2" alt="Kawaii Pixel Cat" />
+  <img align="right" width="350" src="https://github.com/user-attachments/assets/72a0e34a-da33-421a-a91d-b8305bfc3ca2" alt="Kawaii Pixel Cat" />
 
   <br>
 
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Java-F2F2F7?style=flat-square&logo=openjdk&logoColor=black" />
     <img src="https://img.shields.io/badge/Rust-F2F2F7?style=flat-square&logo=rust&logoColor=black" />
     <img src="https://img.shields.io/badge/R-F2F2F7?style=flat-square&logo=r&logoColor=black" />
-    <img src="https://img.shields.io/badge/SQL-F2F2F7?style=flat-square&logo=mysql&logoColor=black" />
+    <br> <img src="https://img.shields.io/badge/SQL-F2F2F7?style=flat-square&logo=mysql&logoColor=black" />
     <img src="https://img.shields.io/badge/Assembly-F2F2F7?style=flat-square" />
     <img src="https://img.shields.io/badge/Bash%20/%20Zsh-F2F2F7?style=flat-square&logo=gnubash&logoColor=black" />
     <img src="https://img.shields.io/badge/JavaScript-F2F2F7?style=flat-square&logo=javascript&logoColor=black" />
@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/PyTorch-F2F2F7?style=flat-square&logo=pytorch&logoColor=black" />
     <img src="https://img.shields.io/badge/Qiskit-F2F2F7?style=flat-square&logo=qiskit&logoColor=black" />
     <img src="https://img.shields.io/badge/Docker-F2F2F7?style=flat-square&logo=docker&logoColor=black" />
-    <img src="https://img.shields.io/badge/LaTeX-F2F2F7?style=flat-square&logo=latex&logoColor=black" />
+    <br> <img src="https://img.shields.io/badge/LaTeX-F2F2F7?style=flat-square&logo=latex&logoColor=black" />
     <img src="https://img.shields.io/badge/Git-F2F2F7?style=flat-square&logo=git&logoColor=black" />
     <img src="https://img.shields.io/badge/Jupyter-F2F2F7?style=flat-square&logo=jupyter&logoColor=black" />
     <img src="https://img.shields.io/badge/Arduino-F2F2F7?style=flat-square&logo=arduino&logoColor=black" />
