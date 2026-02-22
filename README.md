@@ -15,7 +15,7 @@
   <br>
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&color=000000&width=200&height=30&lines=L+A+N+G+U+A+G+E+S&duration=1&repeat=false" alt="Languages" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&color=8B98C6&width=200&height=30&lines=L+A+N+G+U+A+G+E+S&duration=1&repeat=false" alt="Languages" />
   </p>
   <p>
     <img src="https://img.shields.io/badge/Python-F2F2F7?style=flat-square&logo=python&logoColor=black" />
@@ -34,7 +34,7 @@
   <br>
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&color=000000&width=200&height=30&lines=T+O+O+L+S&duration=1&repeat=false" alt="Tools" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&color=8B98C6&width=200&height=30&lines=T+O+O+L+S&duration=1&repeat=false" alt="Tools" />
   </p>
   <p>
     <img src="https://img.shields.io/badge/Pandas-F2F2F7?style=flat-square&logo=pandas&logoColor=black" />
