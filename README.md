@@ -8,7 +8,7 @@
 
   <p>
     <font color="#9d50bb">
-      <i>ℙ𝕣𝕠𝕓𝕒𝕓𝕝𝕪 𝕥𝕖𝕒𝕔𝕙𝕚𝕟𝕘 𝕒 𝕡𝕒𝕡𝕖𝕣 ./𝕔𝕠𝕕𝕖 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="25" height="25" /> 𝕥𝕠 𝕙𝕒𝕧𝕖 𝕒 𝕙𝕚𝕘𝕙𝕖𝕣 𝕀ℚ 𝕥𝕙𝕒𝕟 𝕞𝕖</i>
+      <i>ℙ𝕣𝕠𝕓𝕒𝕓𝕝𝕪 𝕥𝕖𝕒𝕔𝕙𝕚𝕟𝕘 𝕒 𝕡𝕒𝕡𝕖𝕣 ./𝕔𝕠𝕕𝕖 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="25" height="25" /> 𝕥𝕠 𝕙𝕒𝕧𝕖 𝕙𝕚𝕘𝕙𝕖𝕣 𝕀ℚ 𝕥𝕙𝕒𝕟 𝕞𝕖</i>
     </font>
   </p>
 
