@@ -4,7 +4,7 @@
 
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=38&color=8B98C6&width=500&height=50&lines=Hey,+i'm+Akram&duration=1&repeat=false" alt="Hey, I'm Akram" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=38&color=8B98C6&width=500&height=50&lines=Hey,+i'm+Akram&duration=1&repeat=false" alt="Hey, i'm Akram!" />
 
   <p>
     <font color="#9d50bb">
