@@ -39,7 +39,6 @@
 <img src="https://img.shields.io/badge/Qiskit-F2F2F7?style=flat-square&logo=qiskit&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-F2F2F7?style=flat-square&logo=docker&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F2F2F7?style=flat-square&logo=git&logoColor=black" />
-<img src="https://img.shields.io/badge/Jupyter-F2F2F7?style=flat-square&logo=jupyter&logoColor=black" />
 <img src="https://img.shields.io/badge/Arduino-F2F2F7?style=flat-square&logo=arduino&logoColor=black" />
 </p>
 
