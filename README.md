@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Rust-F2F2F7?style=flat-square&logo=rust&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-F2F2F7?style=flat-square&logo=mysql&logoColor=black" />
   <img src="https://img.shields.io/badge/Assembly-F2F2F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Bash%20/%20Zsh-F2F2F7?style=flat-square&logo=gnubash&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash%20-F2F2F7?style=flat-square&logo=gnubash&logoColor=black" />
   <img src="https://img.shields.io/badge/VHDL-F2F2F7?style=flat-square" />
 </p>
 
