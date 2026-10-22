@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&color=8B98C6&width=200&height=30&lines=T+O+O+L+S&duration=1&repeat=false" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&color=8B98C6&width=200&height=30&lines=T+O+O+L+S&duration=1&repeat=false" /> -->
 
 <p>
   <img src="https://img.shields.io/badge/Python-F2F2F7?style=flat-square&logo=python&logoColor=black" />
