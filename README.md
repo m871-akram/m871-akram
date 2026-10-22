@@ -16,30 +16,19 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&color=8B98C6&width=200&height=30&lines=L+A+N+G+U+A+G+E+S&duration=1&repeat=false" />
-
-<p>
-  <img src="https://img.shields.io/badge/Python-F2F2F7?style=flat-square&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%20/%20C%2B%2B-F2F2F7?style=flat-square&logo=cplusplus&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-F2F2F7?style=flat-square&logo=openjdk&logoColor=black" />
-  <img src="https://img.shields.io/badge/Rust-F2F2F7?style=flat-square&logo=rust&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-F2F2F7?style=flat-square&logo=mysql&logoColor=black" />
-  <img src="https://img.shields.io/badge/Assembly-F2F2F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Bash%20-F2F2F7?style=flat-square&logo=gnubash&logoColor=black" />
-  <img src="https://img.shields.io/badge/VHDL-F2F2F7?style=flat-square" />
-</p>
-
-
 <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&color=8B98C6&width=200&height=30&lines=T+O+O+L+S&duration=1&repeat=false" />
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-F2F2F7?style=flat-square&logo=pandas&logoColor=black" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F2F2F7?style=flat-square&logo=scikit-learn&logoColor=black" />
-<img src="https://img.shields.io/badge/PyTorch-F2F2F7?style=flat-square&logo=pytorch&logoColor=black" />
-<img src="https://img.shields.io/badge/Qiskit-F2F2F7?style=flat-square&logo=qiskit&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-F2F2F7?style=flat-square&logo=docker&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F2F2F7?style=flat-square&logo=git&logoColor=black" />
-<img src="https://img.shields.io/badge/Arduino-F2F2F7?style=flat-square&logo=arduino&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-F2F2F7?style=flat-square&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/%20C%2B%2B-F2F2F7?style=flat-square&logo=cplusplus&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-F2F2F7?style=flat-square&logo=openjdk&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rust-F2F2F7?style=flat-square&logo=rust&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-F2F2F7?style=flat-square&logo=mysql&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F2F2F7?style=flat-square&logo=scikit-learn&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-F2F2F7?style=flat-square&logo=pytorch&logoColor=black" />
+  <img src="https://img.shields.io/badge/VHDL-F2F2F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Qiskit-F2F2F7?style=flat-square&logo=qiskit&logoColor=black" />
 </p>
+
 
 </div>
