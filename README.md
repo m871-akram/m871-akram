@@ -1,6 +1,6 @@
 <div align="left">
 
-<img  align="right" width="270"  src="https://github.com/user-attachments/assets/72a0e34a-da33-421a-a91d-b8305bfc3ca2" />
+<img  align="right" width="200"  src="https://github.com/user-attachments/assets/72a0e34a-da33-421a-a91d-b8305bfc3ca2" />
 
 <img  src="https://readme-typing-svg.herokuapp.com?font=VT323&size=38&color=8B98C6&width=500&height=50&lines=Hey,+i'm+Akram!&duration=1&repeat=false" />
 
@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/Java-F2F2F7?style=flat-square&logo=openjdk&logoColor=black" />
   <img src="https://img.shields.io/badge/Rust-F2F2F7?style=flat-square&logo=rust&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-F2F2F7?style=flat-square&logo=mysql&logoColor=black" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F2F2F7?style=flat-square&logo=scikit-learn&logoColor=black" />
   <img src="https://img.shields.io/badge/PyTorch-F2F2F7?style=flat-square&logo=pytorch&logoColor=black" />
   <img src="https://img.shields.io/badge/VHDL-F2F2F7?style=flat-square" />
   <img src="https://img.shields.io/badge/Qiskit-F2F2F7?style=flat-square&logo=qiskit&logoColor=black" />
